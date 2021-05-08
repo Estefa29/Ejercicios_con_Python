@@ -2,9 +2,8 @@
 # Disculpe la demora de la entrega del trabajo, no sabía que había que entregarlo
 # hasta el dia domingo que revise la plataforma, hice algunos ejercicios viendo vídeos y
 # giandome de sitios web, el taller de programación objetual y herencias de clases no contienen
-# enunciados para realizarlos y te quisiera pedir que la nota de ciclos por favor la revises
-# desde que subí el código ahí estaban todos los ejercicios. 
+# enunciados para realizarlos.
 
-# https://github.com/estefaniasanchez29/Nuevas_Tecnologias/blob/main/Clase13_03_21.py
+
 
 # Que tengas un excelente día!
