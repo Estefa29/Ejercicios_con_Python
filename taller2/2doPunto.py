@@ -4,6 +4,7 @@
 # 10 productos. Se debe ingresar la prenda el precio y la talla para cada uno.
 # Luego deberá calcular el precio a pagar.
 # for i in range(11):
+# prenda={'camisetas, pantalones,  camisas, pantalonetas}
 Cesta = {}
 articulo=1
 
